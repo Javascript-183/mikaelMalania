@@ -1,0 +1,6 @@
+·If Statements
+·Switch Cases
+·ფუნქციები
+·Function declaration vs Function expressions	
+·Arrow Functions
+·Ternary(ტერნარური) ოპერატორები
